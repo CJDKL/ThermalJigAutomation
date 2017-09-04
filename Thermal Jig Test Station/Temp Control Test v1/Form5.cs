@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Temp_Control_Test_v1
+{
+    public partial class Popup2 : Form
+    {
+        public Popup2()
+        {
+            InitializeComponent();
+        }
+    }
+}

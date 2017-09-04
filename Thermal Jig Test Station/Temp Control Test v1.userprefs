@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{993ED8BA-72BC-45F0-BF35-AEDA2D38B9AE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Temp Control Test v1/Form1.cs">
+    <Files>
+      <File FileName="Temp Control Test v1/Form1.Designer.cs" Line="155" Column="1" />
+      <File FileName="Temp Control Test v1/Form1.cs" Line="2183" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Temp_220Control_220Test_220v1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
